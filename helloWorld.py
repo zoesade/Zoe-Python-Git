@@ -1,3 +1,7 @@
-user_input = input("Enter something to print: ")
+# helloWorld.py
 
-print(user_input)
+def print_message(message):
+    print(message)
+
+# Call the new method
+print_message("Git is awesome!")
