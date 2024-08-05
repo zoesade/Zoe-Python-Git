@@ -1,7 +1,7 @@
 # helloWorld.py
 
-def print_message(message):
+def display_message(message):
     print(message)
 
-# Call the new method
-print_message("Git is awesome!")
+# Call the renamed method
+display_message("Git is awesome!")
